@@ -1,0 +1,10 @@
+# robots.txt MASTER FILE 
+# UNCOMMENT (REMOVE #) OR DELETE AS NEEDED
+#=======================================
+#
+User-Agent: *
+Disallow: /
+#
+# 
+# version 1 - 23 Nov 2007 (created master file)
+#test commit git
